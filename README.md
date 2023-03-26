@@ -8,3 +8,6 @@ The design rule constraints are a **starting point**. <br>
 **TBD**<br>
 Predefined Track Widths<br>
 Improved constraints
+
+### License
+[cc-by-nc 4.0](LICENSE.md)
